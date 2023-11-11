@@ -26,4 +26,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 ---
-<br><h2 align="center"><i>Thanks for visiting😊!!</i><h2>
+<br>
+<p align="center" border-radius="16px">
+  <img src= "https://i.giphy.com/media/fTn01fiFdTd5pL60ln/giphy.webp">
+</p>
+<h2 align="center"><i>Thanks for visiting😊!!</i><h2>
