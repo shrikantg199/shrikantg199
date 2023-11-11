@@ -28,6 +28,6 @@
 ---
 <br>
 <p align="center" border-radius="16px">
-  <img src= "https://i.giphy.com/media/fTn01fiFdTd5pL60ln/giphy.webp">
+  <img src= "https://i.giphy.com/media/fTn01fiFdTd5pL60ln/giphy.webp" width="350" height="200">
 </p>
 <h2 align="center"><i>Thanks for visiting😊!!</i><h2>
