@@ -97,5 +97,5 @@
   <img src= "https://i.giphy.com/media/fTn01fiFdTd5pL60ln/giphy.webp" width="350" height="200">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=shrikantg199&icon=0&color=7)](https://visitcount.itsvg.in)
+
 <h2 align="center"><i>Thanks for visiting😊!!</i><h2>
