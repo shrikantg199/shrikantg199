@@ -18,8 +18,8 @@
             alt="SHRI" height="30" width="30" gap="1" /></a>
   
   </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="vaibhav" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikantg199&label=Profile%20views&color=0e75b6&style=flat"
+                      alt="shrikant" />
     </p>
     </br> 
     
@@ -42,7 +42,6 @@
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br> 
-
 <h2 align="center">💻 Tech Stack</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -57,30 +56,31 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a>  </p>
 
 
+<div align="center">
 
-<div align="center" style="border: 1px solid rgba(255, 255, 255, 0.5); padding: 10px;">
+![shrikantg199's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrikantg199&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117)
 
-# 📊 GitHub Stats:
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrikantg199&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" alt="GitHub Stats"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrikantg199&theme=radical&hide_border=false" width="400" alt="GitHub Streak"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikantg199&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" alt="Top Languages"/>
+![shrikantg199's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrikantg199&theme=react&hide_border=true&background=060A0CD0)
+
+<br>
+
+![shrikantg199's Stats](https://github-readme-stats.vercel.app/api?username=shrikantg199&theme=react&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117)
 
 </div>
 
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrikantg199&theme=github_dark)
 
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shrikantg199&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-
-
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ---
 <br>
 <p align="center" border-radius="16px">
