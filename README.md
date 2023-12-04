@@ -46,7 +46,7 @@
 
 - 👨‍💻 All my projects are available at my [Git_Hub]()
 
-- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+- ⚡ Fun fact: **I am happy**
 
 <br> 
 <h2 align="center">💻 Tech Stack</h2>
