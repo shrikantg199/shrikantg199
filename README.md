@@ -7,7 +7,7 @@
          alt="Waving hand animated gif"
          height="38"
          width="41" />
-    , I'm SHRIKANT GAIKWAD!
+    , I'm SHRIKANT GAIKWAD
 </h3>
 
 
