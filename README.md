@@ -11,7 +11,7 @@
 </h3>
 
 
-<h3 align="center">A Full Stack Developer...</h3>
+<h3 align="center">A Full Stack Web Developer & MERN Stack Dev...</h3>
 <h4 align='center' >From Pune, Maharashtra </h4>
 <hr>
 <p align="center">
