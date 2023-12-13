@@ -46,7 +46,7 @@
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/shrikantg199?tab=repositories)
 
-- ⚡ Fun fact: **I am happy**
+- ⚡ Fun fact: **I am happy😊😁**
 
 <br> 
 <h2 align="center">💻 Tech Stack</h2>
