@@ -44,7 +44,7 @@
 
 - 📃 Look at my [Resume]() 
 
-- 👨‍💻 All my projects are available at my [Git_Hub]()
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/shrikantg199?tab=repositories)
 
 - ⚡ Fun fact: **I am happy**
 
