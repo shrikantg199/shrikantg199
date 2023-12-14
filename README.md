@@ -26,9 +26,7 @@
             alt="SHRI" height="30" width="30" gap="1" /></a>
   
   </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikantg199&label=Profile%20views&color=0e75b6&style=flat"
-                      alt="shrikant" />
-    </p>
+
     
 - 🔭 I’m a **Full Stack Development**
 
@@ -92,3 +90,6 @@
 
 
 <h2 align="center"><i>Thanks for visiting😊!!</i><h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrikantg199&label=Profile%20views&color=0e75b6&style=flat"
+                      alt="shrikant" />
+    </p>
