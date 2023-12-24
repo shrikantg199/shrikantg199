@@ -40,7 +40,6 @@
 
 - 🌏 Visit to my <a href="https://port-folio-gamma-gray.vercel.app/">Portfolio</a>
 
-- 📃 Look at my [Resume]() 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/shrikantg199?tab=repositories)
 
