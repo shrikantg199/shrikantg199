@@ -19,17 +19,17 @@
 <hr>
 <p align="center">
     <a href="https://linkedin.com/in/contactshrikantgaikwad/" target="_blank"><img align="center"
-             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="SHRI" height="30" width="30" gap="1" /></a>
+             src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+            alt="SHRI" height="30" width="30" gap="2" /></a>
     <a href="https://instagram.com/its_shri_20" target="_open"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
             alt="SHRI" height="30" width="30" gap="1"/></a>
     <a href="https://facebook.com/shrikant.gaikwad.31392" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg"
             alt="SHRI" height="30" width="30" gap="1" /></a>
     <a href="mailto:shrikantg199@gmail.com" target="blank"><img align="center"
-            src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"
-            alt="SHRI" height="30" width="30" gap="1" /></a>
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631"
+            alt="SHRI" height="20" width="30" gap="1" /></a>
   
   </p>
 
