@@ -27,6 +27,9 @@
     <a href="https://facebook.com/shrikant.gaikwad.31392" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="SHRI" height="30" width="30" gap="1" /></a>
+    <a href="shrikantg199@gmail.com" target="blank"><img align="center"
+            src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"
+            alt="SHRI" height="30" width="30" gap="1" /></a>
   
   </p>
 
