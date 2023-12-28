@@ -36,12 +36,11 @@
     
 - 🔭 I’m a **Full Stack Development**
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS** <img align="center"
+             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"
+            alt="SHRI" height="15" width="20"  />
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA**
-
-- 📫 How to reach me
- **shrikantg199@gmail.com**
 
 
 - 🌏 Visit to my <a href="https://port-folio-gamma-gray.vercel.app/">Portfolio</a>
