@@ -1,3 +1,6 @@
+
+<h3 align="center">Hi there ,Welcome to my GitHub Profile😊!</h3>
+<hr>
 <div align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
 </div>   
