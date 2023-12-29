@@ -54,14 +54,14 @@
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center" >
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,vite,react,nodejs,express"  />
+    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,vite,react,nodejs,express,mysql,mongodb"  />
     
   </a>
  
 </p>
 <p align="center" >
   <a href="https://skillicons.dev" >
- <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,eclipse,selenium" align="center" />
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,selenium" align="center" />
     
   </a>
  
