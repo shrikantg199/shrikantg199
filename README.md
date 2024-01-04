@@ -34,7 +34,7 @@
   </p>
 
     
-- 🔭 I’m a **Full Stack Development**
+- 🔭 I’m a **Full Stack Developer**
 
 - 🌱 I’m currently learning **React.JS** <img align="center"
              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"
