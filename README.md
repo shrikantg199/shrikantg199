@@ -74,6 +74,7 @@
 <br>
 
 ![shrikantg199's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrikantg199&theme=react&hide_border=true&background=060A0CD0)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrikantg199)](https://git.io/streak-stats)
 
 <br>
 
@@ -83,7 +84,6 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrikantg199&theme=github_dark)
 
 </div>
 
