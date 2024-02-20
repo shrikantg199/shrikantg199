@@ -36,7 +36,7 @@
     
 - 🔭 I’m a **Full Stack Developer**
 
-- 🌱 I’m currently learning **React.JS** <img align="center"
+- 🌱 I’m currently learning **Express.JS** <img align="center"
              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"
             alt="SHRI" height="15" width="20"  />
 
