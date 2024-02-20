@@ -36,9 +36,7 @@
     
 - 🔭 I’m a **Full Stack Developer**
 
-- 🌱 I’m currently learning **Express.JS** <img align="center"
-             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"
-            alt="SHRI" height="15" width="20"  />
+- 🌱 I’m currently learning **Express.JS** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA**
 
