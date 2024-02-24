@@ -36,7 +36,7 @@
     
 - 🔭 I’m a **Full Stack Developer**
 
-- 🌱 I’m currently learning **Express.JS** 
+- 🌱 I’m currently learning **NodeJs** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA**
 
