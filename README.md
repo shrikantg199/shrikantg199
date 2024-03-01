@@ -59,7 +59,7 @@
 </p>
 <p align="center" >
   <a href="https://skillicons.dev" >
- <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,selenium" align="center" />
+ <img src="https://skillicons.dev/icons?i=git,github,vscode,selenium" align="center" />
     
   </a>
  
