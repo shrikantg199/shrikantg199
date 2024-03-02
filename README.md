@@ -44,8 +44,6 @@
 - 🌏 Visit to my <a href="https://itsmyportfolio-jade.vercel.app/">Portfolio</a>
 
 
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/shrikantg199?tab=repositories)
-
 - ⚡ Fun fact: **I am happy😊😁**
 
 <br> 
