@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning **NodeJs** 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA**
+- 💬 Ask me about **HTML, CSS,Tailwind CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA**
 
 
 - 🌏 Visit to my <a href="https://itsmyportfolio-jade.vercel.app/">Portfolio</a>
