@@ -34,17 +34,17 @@
   </p>
 
     
-- 🔭 I’m a **Full Stack Developer**
+- 🔭 I’m a **Full Stack Developer** .
 
-- 🌱 I’m currently learning **NextJS** 
+- 🌱 I’m currently learning **NextJS** .
 
-- 💬 Ask me about **HTML, CSS,Tailwind CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA**
-
-
-- 🌏 Visit to my <a href="https://itsmyportfolio-jade.vercel.app/">Portfolio</a>
+- 💬 Ask me about **HTML, CSS,Tailwind CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA** .
 
 
-- ⚡ Fun fact: **I am happy😊😁**
+- 🌏 Visit to my <a href="https://shrikant-portfolio-10.vercel.app/">Portfolio</a> .
+
+
+- ⚡ Fun fact: **I am happy😊😁** .
 
 <br> 
 <h2 align="center">💻 Tech Stack</h2>
