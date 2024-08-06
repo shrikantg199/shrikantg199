@@ -36,7 +36,7 @@
     
 - 🔭 I’m a **Full Stack Developer** .
 
-- 🌱 I’m currently learning **NextJS** .
+- 🌱 I’m currently learning **React Native** .
 
 - 💬 Ask me about **HTML, CSS,Tailwind CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA** .
 
