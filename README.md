@@ -38,7 +38,7 @@
 
 - 🌱 I’m currently learning **React Native** .
 
-- 💬 Ask me about **HTML, CSS,Tailwind CSS, JavaScript, React,Node.JS, Express.JS,MongoDB, MySQL,& DSA** .
+- 💬 Ask me about **HTML, CSS,Tailwind CSS, JavaScript, React,React Native,Node.JS, Express.JS,MongoDB, MySQL,& DSA** .
 
 
 - 🌏 Visit to my <a href="https://shrikant-portfolio-10.vercel.app/">Portfolio</a> .
